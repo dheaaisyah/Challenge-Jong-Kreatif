@@ -1,2 +1,2 @@
 # Challenge-Jong-Kreatif
-Project Wordpress Dalam Pelatihan Jong Koding : Challenge 1
+Project Wordpress Dalam Pelatihan Jong Coding : Challenge 1
